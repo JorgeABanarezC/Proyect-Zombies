@@ -1,0 +1,15 @@
+Projecto Zombie
+EL juego consiste en que puedas aguantar  sin que te maten, existen armas y municion en diferentes 
+partes por lo que debes recorrer las catacumbas en busqueda de estas, todo eso antes de que se llene
+ de zombies, unete al reto de sobrevivir!!!.
+
+Para iniciar solo oprime sobrevivir y al finalizar la tecla windows de tu pc y quita el juego.
+
+Es solo el prototipo del juego, son sus primeras etapas por lo que me gustaria mucho un 
+retroalimemtacion con tus comentarios.
+
+Diviertete y muchas gracias!!!
+
+puedes descargar el juego desde;
+
+ https://ghoststudio76.itch.io/projecto-zombie
